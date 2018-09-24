@@ -1,0 +1,4 @@
+Data travels the internet in small packets of up to 1,500 bytes. When you send something to someone, the packets break down for travel and the data is reassembled when it reaches its final destination.
+A DNS address is used as an address forwarding service and IP address is the real address in a series of numbers.
+One or more pieces of information stored as text strings on your computer and is stored.
+The three basic parts of a URL include, protocol, domain name and path.
