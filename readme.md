@@ -10,6 +10,6 @@
   <h3>My Resources</h3>
   <i>HTML & CSS</i> <b>Jon Duckett</b>
   <a href="https://media-ed-online.github.io/intro-web-dev/>GitHub</a>
-  <imgsrc-"http://bit.ly/2DIVG46"/>
+  <img src-"http://bit.ly/2DIVG46"/>
   </body>
   </html>
