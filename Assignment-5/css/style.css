@@ -1,5 +1,5 @@
 body {
-  background-color: pink;
+  background-color: grey;
   Can I use a photo in replacement to a backround color?*/
   padding: 20;
   text-align: center;
@@ -30,11 +30,13 @@ body {
 }
 #box-four {
     font-style: normal;
-    background-color: orange;
+    background-color: lightyellow;
     text-align: center;
     font-size: 50
 }
 #box-five {
-    background-color: pink;
+    background-color: orange;
     text-align: right;
+    font-style: normal;
+    font-size: 50
 }
