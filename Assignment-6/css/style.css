@@ -1,0 +1,59 @@
+.container{
+   background-color:rgb(245,255,250);
+   width: 1250px;
+   margin: auto;
+   padding: 40px;
+   border: 15px double black;
+   font-family:'Cinzel',cursive;
+ }
+ h1 {
+ /*Color Text*/
+    color: black;
+    text-align: center !important;
+     font-family: 'Cinzel', cursive;
+     font-size: 60px
+
+ }
+p{
+  /*Color Text*/
+   color: silver
+   font-size: 40px;
+   /* Set Position */
+   text-align: center !important;
+    font-family: 'Cinzel', cursive;
+    line-height: normal;
+}
+p::first-line{
+  color: silver;
+font-size: 25px;
+}
+ pre{
+   /*Color Text*/
+    color: black
+    font-size: 90px;
+    /* Set Position */
+    text-align: center !important;
+    font-family: 'Cinzel', cursive;
+    line-height: normal;
+ }
+
+ .element-1{
+   font-family: 'Cinzel', cursive;
+   font-size: 40px}
+   a:hover {
+     color:  black;
+ }
+ a:active {
+    color: white;
+font-style: 'Cinzel', cursive;
+}
+
+
+
+ #img {
+
+ padding-left: 20px;
+ padding-top: 10px;
+ float: middle;
+
+ }
