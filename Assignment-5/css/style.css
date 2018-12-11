@@ -1,10 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css?family=Volkhov');
+
 body {
   background-color: rgb(49, 35, 112);
   Can I use a photo in replacement to a backround color?*/
   padding: 15;
   text-align: center;
-@import url('https://fonts.googleapis.com/css?family=Volkhov');
-  font-size: 30;
+  font-size: 35;
   color: lightyellow;
 }
 #box-one {
@@ -31,4 +33,4 @@ body {
 ;
     text-align: center;
     font-size: 50
-}
+/}
