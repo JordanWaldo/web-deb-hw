@@ -1,6 +1,5 @@
-/*adding link for fonts*/
 <linkhref="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet">
-
-*{
+@import url('https://fonts.googleapis.com/css?family=Cinzel');
+{
   font-family: 'Cinzel', serif;
 }

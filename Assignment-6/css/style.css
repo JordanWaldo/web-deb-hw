@@ -23,7 +23,7 @@ p{
     font-family: 'Cinzel', cursive;
     line-height: normal;
 }
-p::first-line{
+p:first-line{
   color: silver;
 font-size: 25px;
 }
